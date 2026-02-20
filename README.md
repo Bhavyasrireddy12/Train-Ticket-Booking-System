@@ -92,18 +92,6 @@ make
 
 ---
 
-## 📸 Screenshots
-
-### 🔹 Start Menu
-![Start](screenshots/start.png)
-
-### 🔹 Login Screen
-![Login](screenshots/login.png)
-
-### 🔹 Ticket Booking
-![Booking](screenshots/booking.png)
-
----
 
 ## 🔁 Application Flow
 
