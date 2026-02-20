@@ -51,4 +51,25 @@ This project demonstrates strong fundamentals in **C programming, data structure
 ---
 
 ## 📂 Project Structure
+Train-Ticket-Booking-System/
+│
+├── src/ # Source code
+│ └── main.c
+│
+├── include/ # Header files
+│ └── structures.h
+│
+├── data/ # Data storage files
+│ └── users.txt
+│
+├── screenshots/ # Application screenshots
+│ ├── start.png
+│ ├── login.png
+│ └── booking.png
+│
+├── bin/ # Compiled binaries (ignored in Git)
+│
+├── Makefile # One-command build
+├── .gitignore
+└── README.md
 
