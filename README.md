@@ -1,3 +1,4 @@
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/Bhavyasrireddy12/Train-Ticket-Booking-System)
 ![GitHub stars](https://img.shields.io/github/stars/Bhavyasrireddy12/Train-Ticket-Booking-System?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Bhavyasrireddy12/Train-Ticket-Booking-System?style=social)
@@ -73,3 +74,80 @@ Train-Ticket-Booking-System/
 ├── .gitignore
 └── README.md
 
+
+### 2️⃣ Navigate to the Project Directory
+
+cd Train-Ticket-Booking-System
+
+
+### 3️⃣ Compile the Program
+
+make
+
+
+### 4️⃣ Run the Application
+
+./train_booking
+
+
+---
+
+## 📸 Screenshots
+
+### 🔹 Start Menu
+![Start](screenshots/start.png)
+
+### 🔹 Login Screen
+![Login](screenshots/login.png)
+
+### 🔹 Ticket Booking
+![Booking](screenshots/booking.png)
+
+---
+
+## 🔁 Application Flow
+
+
+Start
+↓
+User Registration / Login
+↓
+Main Menu
+↓
+Book Ticket / Cancel Ticket / View Booking History
+↓
+Save Data to File
+↓
+Exit
+
+
+---
+
+## 🚀 Future Enhancements
+
+- Seat availability & allocation system  
+- Admin panel for train management  
+- Password encryption  
+- Database integration (MySQL / SQLite)  
+- GUI-based application  
+
+---
+
+## 👩‍💻 Author
+
+**Bhavyasri Evuri**  
+Information Technology Student  
+
+---
+
+## 📌 Why This Project?
+
+This project was built to:
+- Apply **C programming concepts in a real-world scenario**
+- Gain hands-on experience with **file handling and data structures**
+- Create an **interview-ready software engineering project**
+- Showcase clean code and modular design on GitHub
+
+---
+
+⭐ If you find this project useful, feel free to star the repository!
