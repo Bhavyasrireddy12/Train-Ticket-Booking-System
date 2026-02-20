@@ -16,3 +16,39 @@
 
 ### Ticket Booking
 ![Booking](screenshots/booking.png)
+# 🚆 Train Ticket Booking System (C)
+
+A console-based **Train Ticket Booking System** developed in **C**, designed to simulate real-world railway reservation functionality.  
+The application allows users to **register, login, book tickets, cancel bookings, and view booking history**, with persistent storage using file handling.
+
+This project demonstrates strong fundamentals in **C programming, data structures, and software engineering practices**.
+
+---
+
+## 🛠 Tech Stack
+
+- **Language:** C  
+- **Core Concepts:**  
+  - Structures  
+  - File Handling  
+  - Pointers  
+  - Linked List  
+- **Build Tool:** Makefile  
+- **Platform:** Windows / Linux (Terminal-based)
+
+---
+
+## ✨ Features
+
+- 🔐 User Registration & Login Authentication  
+- 🚄 Train Management using Linked List  
+- 🎟 Ticket Booking System  
+- ❌ Ticket Cancellation  
+- 📜 Booking History Tracking  
+- 💾 Persistent Data Storage using Files  
+- 🧩 Modular & Clean Code Structure  
+
+---
+
+## 📂 Project Structure
+
